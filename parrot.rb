@@ -1,4 +1,3 @@
-def parrot(squawk = "prettybird")
-  phrase="prettybird"
+def parrot(arg = "squawk")
   puts=squawk
 end
