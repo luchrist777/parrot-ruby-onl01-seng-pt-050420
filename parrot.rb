@@ -1,3 +1,3 @@
 def parrot(arg = "squawk!")
-  puts=squawk
+  puts=squawk!
 end
